@@ -6,19 +6,19 @@
 }
 
 .btn-blue {
-    color: #c4b63b;
+    color: #9c6028;
     text-decoration: none;
     font-size: 20px;
     display: inline-block;
     padding: 15px 25px;
-    border: 1px solid #c4b63b;
+    border: 1px solid #9c6028;
     border-radius: 17px;
     margin-top: 10px;
     transition: all .3s ease;
 }
 
 .btn-blue:hover {
-    background-color: #c4b63b;
+    background-color: #9c6028;
     color: white;
 }
 
@@ -98,7 +98,7 @@ header > nav {
 }
 
 .nav-link:hover {
-    color: #c4b63b;
+    color: #9c6028;
 
 }
 
